@@ -1,0 +1,2 @@
+Outbound connection: 10.0.0.5 -> 185.244.25.10 | 2.5GB transferred | Port 443
+Outbound connection: 10.0.0.5 -> 185.244.25.10 | 3.1GB transferred | Port 443
